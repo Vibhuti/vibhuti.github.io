@@ -3,7 +3,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Vinti Blog
+title:            Vinti's Blog
 tagline:          Life is beautiful
 url:              http://vintimaheshwari.com
 paginate:         1
@@ -16,4 +16,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/vibhuti
